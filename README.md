@@ -22,7 +22,7 @@ Using this system, we can reduce the number of people required around the patien
 4. **Blynk App** - For better visualization
 
 ## Video of the Working Prototype 
-(https://github.com/Maulishri/Patient-Health-Montoring/blob/main/Patient%20video)
+![Video](Patient video)
 
 ## Future Scope
 If this is implemented on a large scale, a database can be created with data of multiple patients on a single app, and patient priority can be decided by the app algorithm.
