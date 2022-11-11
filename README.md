@@ -8,9 +8,9 @@ In this era of automation and Interconnecting things via the internet, have you 
 
 The plan is to send the data about the patient, like heart rate, and body temperature directly to the doctor using an app. When the conditions that we are monitoring, start getting abnormal, an alert is sent to the doctor’s phone! A mobile prototype of the same is as under - 
 
-[Hardware Prototype](Patient-Health-Montoring/PHOTO-2019-03-20-17-36-50.jpg)
+![Hardware Prototype](Patient-Health-Montoring/PHOTO-2019-03-20-17-36-50.jpg)
 
-[Blynk App prototype](Patient-Health-Montoring/PHOTO-2019-03-21-18-40-22.jpg)
+![Blynk App prototype](Patient-Health-Montoring/PHOTO-2019-03-21-18-40-22.jpg)
 
 Using this system, we can reduce the number of people required around the patient and the person in charge can be kept updated 24/7. 
 
@@ -22,7 +22,7 @@ Using this system, we can reduce the number of people required around the patien
 4. **Blynk App** - For better visualization
 
 ## Video of the Working Prototype 
-![Video of working prototype](https://github.com/Maulishri/Patient-Health-Montoring/blob/main/Patient%20video)
+(https://github.com/Maulishri/Patient-Health-Montoring/blob/main/Patient%20video)
 
 ## Future Scope
 If this is implemented on a large scale, a database can be created with data of multiple patients on a single app, and patient priority can be decided by the app algorithm.
