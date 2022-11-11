@@ -10,4 +10,3 @@ I have used basic sensors like the heart rate sensor and the LM-35 temperature s
 
 If this is implemented on a large scale, a database can be created with data of multiple patients on a single app, and patient priority can be decided by the app algorithm.
 
-![image](https://user-images.githubusercontent.com/58897377/201263040-0bb60acd-64c7-49cf-81bb-e3b47bd95190.png)
