@@ -6,7 +6,7 @@ In this era of automation and Interconnecting things via the internet, have you 
 
 ## Idea and Prototype
 
-The plan is to send the data about the patient, like heart rate, and body temperature directly to the doctor using an app. When the conditions that we are monitoring, start getting abnormal, an alert is sent to the doctor’s phone! A mobile prototype of the same is as under - 
+The plan is to send the data about the patient, like heart rate, and body temperature directly to the doctor using an app. When the conditions that we are monitoring, start getting abnormal, an alert is sent to the doctor’s phone! The pictures of the mobile prototype of the same are as under- 
 
 ![Hardware Prototype](PHOTO-2019-03-20-17-36-50.jpg)
 
